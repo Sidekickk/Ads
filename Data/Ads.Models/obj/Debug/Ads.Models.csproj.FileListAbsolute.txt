@@ -1,0 +1,14 @@
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Ads.Models.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Ads.Models.pdb
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\obj\Debug\Ads.Models.csprojResolveAssemblyReference.cache
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\obj\Debug\Ads.Models.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\obj\Debug\Ads.Models.pdb
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Ads.Models.dll.config
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\EntityFramework.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\EntityFramework.xml
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sidekick\Documents\MvcHomeworks\Ads\Data\Ads.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
